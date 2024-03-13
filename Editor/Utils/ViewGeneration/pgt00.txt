@@ -1,0 +1,13 @@
+﻿using ArchCore.MVP;
+
+namespace #NAMESPACE#.Views
+{
+	public class #NAME#Presenter : Presenter<#NAME#View>
+	{
+		public #NAME#Presenter(#NAME#View view) : base(view)
+		{
+			
+		}
+	
+	}
+}

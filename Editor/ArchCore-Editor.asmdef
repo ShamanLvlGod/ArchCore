@@ -1,0 +1,17 @@
+{
+    "name": "Archore-Editor",
+    "references": [
+        "GUID:957ff02046f738b4ebff18ceb98c6712"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

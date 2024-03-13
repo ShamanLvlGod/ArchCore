@@ -1,0 +1,21 @@
+﻿using ArchCore.MVP;
+using ArchCore.Utils;
+
+namespace #NAMESPACE#.Views
+{
+	public class #NAME#Presenter : PopupPresenter<#NAME#Popup, PopupArgs, PopupResult>
+	{
+		public #NAME#Presenter(#NAME#Popup view) : base(view)
+		{
+			
+		}
+		
+		public override AsyncTask<PopupResult> Init(PopupArgs args)
+        {
+            popupTask = new AsyncTask<PopupResult>();
+
+            return popupTask;
+        }
+	
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "name": "archcore-pooling-editor",
+    "references": [
+        "GUID:d59d59d0b4837c24692064b02880d10c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}

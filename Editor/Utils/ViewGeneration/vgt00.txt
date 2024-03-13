@@ -1,0 +1,11 @@
+﻿using ArchCore.MVP;
+
+
+namespace #NAMESPACE#.Views
+{
+	[AutoRegisterView]
+	public class #NAME#View : View<#NAME#Presenter>
+	{
+		
+	}
+}
